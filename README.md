@@ -6,6 +6,10 @@
 - [test][youtube]
 [youtube]: https://youtube.com
 
+LINKS
+- [Facebook][facebook]  
+[facebook]: https://facebook.com/tsonukumar300
+
 Here are some ideas to get you started:
 
 - 🔭 ’m currently working on ...
@@ -24,6 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me ... tsonukumar300@gmail.com , +9779807063379
 
 
-LINKS
-- [Facebook][facebook]  
-- [facebook]: https://facebook.com/tsonukumar300
+
