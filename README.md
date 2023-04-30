@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- wave Hi, I’m @AnishMandal939 / Anish Mandal
-eyes I’m interested in contributing to technical writings, Software development, real world problem solver,AI
-seedling I’m currently working on MERN stack projects, solving competitive problems, also a 3 star coder
-seedling I’m currently persuing my Bachelor Degree on Computer Engineering 2017-2021
-revolving_hearts I’m looking to collaborate to other content creators
-mailbox How to reach me ... mandalktaanees12@gmail.com , anishmandal694@gmail.com +9779862170694
+-👋 Hi, I’m Sonu Kumar Thakur
+-👀 I’m interested in contributing to technical writings, Software development, real world problem solver,AI
+-🌱 I’m currently working on MERN stack projects, solving competitive problems
+-🌱 I’m currently running my Bachelor Degree on Computer Engineering 2022 
+-📫 How to reach me ... tsonukumar300@gmail.com , +9779807063379
