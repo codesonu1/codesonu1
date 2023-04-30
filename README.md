@@ -2,6 +2,9 @@
 
 <!--
 **codesonu1/codesonu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+- [test][youtube]
+[youtube]: https://youtube.com
 
 Here are some ideas to get you started:
 
@@ -20,7 +23,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently running my Bachelor Degree on Computer Engineering 2022 
 - 📫 How to reach me ... tsonukumar300@gmail.com , +9779807063379
 
-- [test][youtube]
 
 
-[youtube]: https://youtube.com
+
